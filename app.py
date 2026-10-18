@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-PROJECT_PATH = Path("/content/drive/MyDrive/AI_Job_Recommendation_System")
+PROJECT_PATH = Path(__file__).resolve().parent
 SRC_PATH = PROJECT_PATH / "src"
 DATA_PATH = PROJECT_PATH / "data" / "jobs.csv"
 
