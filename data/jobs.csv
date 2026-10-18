@@ -1,0 +1,16 @@
+job_id,job_title,company,required_skills,experience_level,description
+1,Data Analyst,DataWorks,"Python, SQL, Excel, Pandas, Data Visualization",Entry-level,"Analyze datasets, write SQL queries, clean data with Python, and create reports."
+2,Junior Machine Learning Engineer,AI Solutions,"Python, Machine Learning, Scikit-learn, Pandas, NumPy",Entry-level,"Build machine learning models, prepare datasets, and evaluate model performance."
+3,Python Developer,CodeCraft,"Python, Git, APIs, SQL, Problem Solving",Entry-level,"Develop Python applications, integrate APIs, and maintain readable code."
+4,AI Engineer,Future Intelligence,"Python, Machine Learning, Deep Learning, NLP, TensorFlow",Intermediate,Develop AI applications using machine learning and deep learning techniques.
+5,Business Data Analyst,Insight Labs,"SQL, Excel, Power BI, Statistics, Data Visualization",Entry-level,Analyze business performance and communicate insights through dashboards.
+6,NLP Engineer,Language AI,"Python, NLP, Transformers, Machine Learning, PyTorch",Intermediate,Develop language-processing systems for text classification and semantic search.
+7,Data Scientist,Predictive Analytics,"Python, Statistics, Machine Learning, SQL, Pandas",Intermediate,Use statistical analysis and machine learning to discover patterns in data.
+8,Frontend Developer,WebLaunch,"HTML, CSS, JavaScript, React, Git",Entry-level,Build responsive websites and interactive user interfaces.
+9,Backend Developer,ServerStack,"Python, APIs, SQL, Git, Databases",Entry-level,"Build server-side applications, APIs, and database integrations."
+10,Deep Learning Engineer,Neural Systems,"Python, Deep Learning, PyTorch, TensorFlow, NumPy",Advanced,Train and optimize neural networks for complex prediction tasks.
+11,BI Developer,Business Metrics,"SQL, Power BI, Excel, Data Modeling, DAX",Intermediate,Design business intelligence dashboards and data models.
+12,Computer Vision Engineer,VisionTech,"Python, OpenCV, Deep Learning, PyTorch, NumPy",Intermediate,Develop image-processing and computer vision applications.
+13,Generative AI Engineer,GenAI Studio,"Python, NLP, LLMs, Prompt Engineering, APIs",Intermediate,Build applications using large language models and generative AI tools.
+14,Data Engineer,Pipeline Technologies,"Python, SQL, ETL, Databases, Data Pipelines",Intermediate,Build data pipelines and prepare reliable data for analytics.
+15,Software Engineer,BuildRight,"Python, Git, Data Structures, Algorithms, Testing",Entry-level,"Develop, test, and maintain software applications."
