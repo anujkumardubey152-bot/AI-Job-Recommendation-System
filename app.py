@@ -268,11 +268,6 @@ with st.container(border=True):
         value=min(5, max(1, len(jobs_df))),
     )
 
-st.info(
-    "This project uses a small sample job dataset. Match scores are "
-    "ranking estimates, not probabilities of being hired."
-)
-
 # -------------------- ANALYZE RESUME --------------------
 
 if uploaded_file is not None:
@@ -508,10 +503,8 @@ else:
 st.markdown(
     """
     <div class="footer-note">
-        CareerMatch AI · Built for career exploration ·
-        Scores are estimates and do not guarantee hiring outcomes.
+        CareerMatch AI · Built for career exploration
     </div>
     """,
     unsafe_allow_html=True,
 )
-
